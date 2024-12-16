@@ -1,0 +1,6 @@
+spring.application.name=managerApp
+
+Metall:
+  service:
+    catalogue:
+        uri: http://localhost:8081
